@@ -1,0 +1,10 @@
+c:\users\bidu4ek\source\repos\SE\SE\bin\Debug\SE.exe.config
+c:\users\bidu4ek\source\repos\SE\SE\bin\Debug\SE.exe
+c:\users\bidu4ek\source\repos\SE\SE\bin\Debug\SE.pdb
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.csprojAssemblyReference.cache
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.Form1.resources
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.Properties.Resources.resources
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.csproj.GenerateResource.cache
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.csproj.CoreCompileInputs.cache
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.exe
+c:\users\bidu4ek\source\repos\SE\SE\obj\Debug\SE.pdb
